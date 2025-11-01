@@ -37,14 +37,14 @@ git clone https://github.com/mohdzahid09/bank-project-in-java.git
 Open the project in any Java IDE or terminal.
 
 Compile the program:
-
+```bash
 javac BankSystem.java
-
+```
 
 Run the program:
-
+```bash
 java BankSystem
-
+```
 # 💡 Future Enhancements
 
 Add multiple account management using ArrayList or database
