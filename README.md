@@ -27,9 +27,12 @@ Tools: JDK 17+ / IntelliJ IDEA / VS Code / Eclipse
 
 Clone the repository:
 
+
+
 ```bash
 git clone https://github.com/mohdzahid09/bank-project-in-java.git
 
+```
 
 Open the project in any Java IDE or terminal.
 
